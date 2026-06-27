@@ -43,14 +43,14 @@ text-decoration: none;
 }
 /*cambio de color*/
 .encabezado nav ul li a:hover{ 
-background: blue;
+background: yellowgreen;
 }
 /*------------------------------------
 PRESENTACION
 -------------------------------------*/ 
 .presentacion{
   /*background: pink;*/
-  background: radial-gradient(400px at 60% 10%, #781811, #73F0CC);
+  background: radial-gradient(400px at 60% 10%, green, blue);
   overflow: hidden;
   border-bottom: 3px solid #044e8b; 
 }  
@@ -84,7 +84,7 @@ a.aprender-mas{
     text-decoration: none;
     text-shadow: 3px 7px 0 #000;
     border-radius: 10px;
-    background: linear-gradient(to top, #319b41, #0d5c25);
+    background: linear-gradient(#27F550, #319b41, #F53827);
     box-shadow: 0 8px 0 0 #20732f,
                 0 0 25px 5px #fff;
 } 
@@ -99,7 +99,7 @@ a.aprender-mas:hover{
 /*****************************************************************
 /*------------Acceso-rapido------------*/
 .acceso-rapido{
-    background: #21bc4e;
+    background: #F527EE;
     overflow: hidden;
     border-bottom: 3px solid #fff;
 }
@@ -150,7 +150,7 @@ a.aprender-mas:hover{
     margin-bottom: 10px;
 }
 .articulos h2{  /**4**/
-    color: #444444;
+    color: #forestgreen;
     font-size: 1.625em;
     border-bottom: 3px solid #0460ad;
     padding-bottom: 25px;
@@ -240,7 +240,7 @@ a.aprender-mas:hover{
     box-shadow: 0 -1px 0px 0 #93badc insert;
 }
 .suscripcion form input[type="submit"]:hover{ /*** 5   ***/
-    background: #21bc4d;
+    background: #27C2F5;
 }
 /***********pie de pagina**************/
 .piedepagina{   /**1 **/
@@ -252,12 +252,12 @@ a.aprender-mas:hover{
 }
 .piedepagina small{  /***3  ***/
     display: table-cell;
-    background: red;  /*  elim  7 a **/
+    background:gold;  /*  elim  7 a **/
     color: #fff;  /** 4 **/
 }
 .piedepagina nav{ /**** 4  ***/
     display: table-cell;
-    background: blue;  /*** elim 7 b ***/
+    background: brown;  /*** elim 7 b ***/
     text-align: right; /***6  **/
 }
 .piedepagina nav ul{ /**** 5 ***/
