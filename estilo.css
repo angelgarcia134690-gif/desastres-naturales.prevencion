@@ -13,7 +13,7 @@ line-height: 1.4em;
 }
 
 .encabezado{ 
-background: red; 
+background: greenyellow; 
 overflow: hidden;
 }
 .logo{
@@ -99,7 +99,7 @@ a.aprender-mas:hover{
 /*****************************************************************
 /*------------Acceso-rapido------------*/
 .acceso-rapido{
-    background: #F527EE;
+    background: #F52742;
     overflow: hidden;
     border-bottom: 3px solid #fff;
 }
@@ -152,7 +152,7 @@ a.aprender-mas:hover{
 .articulos h2{  /**4**/
     color: #forestgreen;
     font-size: 1.625em;
-    border-bottom: 3px solid #0460ad;
+    border-bottom: 3px solid #27F53F;
     padding-bottom: 25px;
 }
 .articulos img{  /**5**/
@@ -167,7 +167,7 @@ a.aprender-mas:hover{
     margin: 8px 0 8px 0;  /*** 9 ****/
 }
 .articulos article h1 a{  /**7**/ 
-    color: #444444;  /*HTML incluir href*/
+    color: #6C7A23;  /*HTML incluir href*/
     text-decoration: none;
 }
 .articulos article h1 a:hover{  /**8**/ 
@@ -179,7 +179,7 @@ a.aprender-mas:hover{
     font-size: 0.875em; /*** 14/16 = 0.875 ***/
 }
 .complementario{    /*   1  */
-    background: #0460ad;
+    background: #484FDB;
     width: 35%; 
     display: table-cell; 
     padding: 0 20px 20 px; /***2**laterales sup e inf*/
@@ -212,7 +212,7 @@ a.aprender-mas:hover{
 /************** suscripcion */
 .suscripcion{  /**1***/
     overflow: hidden;
-    border: 1px solid red;  /**2 *** elim**/
+    border: 1px solid blue;  /**2 *** elim**/
     background: #eeeeee;   /***2***/
     margin-top: 20PX;  /*** 2  B  ****/
 }
@@ -237,10 +237,10 @@ a.aprender-mas:hover{
     background: #0460ad;
     color: #fff;
     text-shadow: 1px 1px 0 #000;
-    box-shadow: 0 -1px 0px 0 #93badc insert;
+    box-shadow: 0 -1px 0px 0 #DE8F6D insert;
 }
 .suscripcion form input[type="submit"]:hover{ /*** 5   ***/
-    background: #27C2F5;
+    background: #DE6DDE;
 }
 /***********pie de pagina**************/
 .piedepagina{   /**1 **/
